@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4ed6ef23_002D6030_002D4cf0_002D95aa_002Df83263ba4d02/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Get_OnSuccess_ReturnStatusCode200" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::8C40C895-959E-409E-A7D6-DF1E7B724737::net8.0::CloudCustomers.UnitTests.Systems.Controllers.TestUsersController&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8C40C895-959E-409E-A7D6-DF1E7B724737::net8.0::CloudCustomers.UnitTests.Systems.Services.TestUserService.GetAllUsers_WhenCalled_InvokesHttpGetRequest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8C40C895-959E-409E-A7D6-DF1E7B724737::net8.0::CloudCustomers.UnitTests.Systems.Services.TestUserService&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
